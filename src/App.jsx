@@ -104,7 +104,7 @@ function App() {
               <div className="window-footer"><span className="footer-pulse" /> Ready to build <span className="footer-right">UTF-8&nbsp; · &nbsp;JSX</span></div>
             </div>
             <div className="float-card float-card-top"><Sparkles size={16} /><span>Curious by nature</span></div>
-            <div className="portrait-card"><div className="portrait-frame"><img src="/profile.png" alt="Sneha Singh" onError={(e) => { e.currentTarget.style.display = 'none'; }} /><span className="portrait-fallback">SS</span></div><div><strong>Sneha Singh</strong><small>Frontend Developer</small></div></div><div className="float-card float-card-bottom"><span className="mini-check">✓</span><span>Responsive by default</span></div>
+            <div className="portrait-card"><div className="portrait-frame"><img src="/profile.png" alt="Sneha Singh" onError={(e) => { e.currentTarget.style.display = 'none'; }} /><span className="portrait-fallback">SS</span></div><div><strong>Sneha Singh</strong><small>Web Developer</small></div></div><div className="float-card float-card-bottom"><span className="mini-check">✓</span><span>Responsive by default</span></div>
             <div className="art-caption">DESIGN MINDFUL. CODE CURIOUS.</div>
           </div>
           <a className="scroll-cue" href="#about"><span className="scroll-line" /> SCROLL TO EXPLORE <ArrowDownRight size={14} /></a>
