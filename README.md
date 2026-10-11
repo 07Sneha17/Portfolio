@@ -22,6 +22,7 @@ npm run dev
 - Your resume is included as `public/resume.pdf`; replace it whenever you update your resume. The hero has both View resume and Download PDF links.
 - Add your own portrait photo as `public/profile.jpg` to show your real photo alongside the developer visual. Until then, the portfolio shows initials as a fallback.
 - The theme toggle switches between dark and light themes.
+- The contact form validates each field and opens a prepared `mailto:` draft to `snehasingh79067@gmail.com`. The visitor must press Send in their email app; the portfolio does not send mail automatically.
 - Verify all project claims and dates before publishing.
 - Update the project list as your work grows.
 
